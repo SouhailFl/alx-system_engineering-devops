@@ -7,3 +7,4 @@ grep -i "root" /etc/passwd | wc -l
 grep -c bin /etc/passwd
 grep -i "root" /etc/passwd | wc -l
 grep -i bin /etc/passwd | wc -l
+grep -c "bin" /etc/passwd
