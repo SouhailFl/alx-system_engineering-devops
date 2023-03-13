@@ -5,3 +5,4 @@ grep -c "bin" /etc/passwd | wc -l
 grep -c "root" /etc/passwd | wc -l
 grep -i "root" /etc/passwd | wc -l
 grep -c bin /etc/passwd
+grep -i "root" /etc/passwd | wc -l
