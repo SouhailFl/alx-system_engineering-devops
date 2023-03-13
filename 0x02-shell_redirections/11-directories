@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type d -mot -name . | wc -l
