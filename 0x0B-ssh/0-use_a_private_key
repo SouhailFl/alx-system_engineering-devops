@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# key in ~/root/.ssh/id_rsa/souhail
+
+ssh -i ~/root/.ssh/id_rsa/souhail root@f6e508e89902
